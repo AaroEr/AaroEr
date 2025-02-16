@@ -3,6 +3,22 @@
 
 - 📫 How to reach me **aaro.eronen@gmail.com**
 
+<h3>Most relevant courses:</h3>
+
+- Basics of programming
+- Basics of Object Oriented Programming
+- Advanced Course in Object Oriented Programming
+- Web Programming
+- Unix and command line tools
+- Fundamentals of Databases
+- Data Structures and Algorithms
+- Computer Network Technologies
+- Computer Architecture and Operating Systems
+- Embedded Systems Programming
+- Distributed Software Systems
+- Basic Course on Software Engineering
+- Cyber Security Engineering
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
