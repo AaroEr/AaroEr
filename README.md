@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaro Eronen</h1>
-<h3 align="center">A passionate third year Information and Communication Technology, Bachelor of Science and Master of Science student from Finland.</h3>
+<h3 align="center">I am a third year Information and Communication Technology, Bachelor of Science and Master of Science student from Finland.</h3>
 
 - 📫 How to reach me **aaro.eronen@gmail.com**
 
